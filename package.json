@@ -1,0 +1,14 @@
+{
+  "name": "english-learning-app",
+  "version": "1.0.0",
+  "description": "Desktop app for learning english",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rigoletto",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^30.0.1"
+  }
+}
